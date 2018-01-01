@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PCArcanoid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="new_game">New game</string>
+	<string name="continue_game">Continue game</string>
+	<string name="options">Options</string>
+	<string name="high_scores">High scores</string>
+	<string name="exit">Exit</string>
+	<string name="exit_confirm">Do you really want to exit?</string>
+	<string name="live_lost">You have lost a live!</string>
+	<string name="game_over">GAME OVER</string>
+	<string name="lives">Lives: %1$d</string>
+	<string name="points">Points: %1$d</string>
+	<string name="level">Level: %1$d</string>
+	<string name="speed">Speed: %1$.2f</string>
+	<string name="name_input">Please write your name</string>
+	<string name="high_scores_dialog_title">High scores</string>
+</resources>
